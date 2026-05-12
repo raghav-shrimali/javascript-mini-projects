@@ -1,5 +1,5 @@
 const form = document.querySelector('form');
-// chatgpt version corrected this given code
+
 form.addEventListener('submit', (e) => {
     e.preventDefault();
 
