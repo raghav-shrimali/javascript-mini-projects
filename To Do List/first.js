@@ -38,5 +38,5 @@ form.addEventListener('submit', (e) => {
     });
     form.reset;
 
-    input.value = ""; // clear input
+    input.value = ""; 
 });
